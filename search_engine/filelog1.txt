@@ -1,0 +1,2 @@
+INFO:root:['C:\\searching\\siri1.txt']
+INFO:root:['C:\\searching\\siri2.txt']
